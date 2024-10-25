@@ -1,0 +1,18 @@
+.odd-numbers{
+    background-color: #ffd1df;
+    font-family: 'Verdana','DejaVu Sans','Sans-serif';
+
+}
+#second-element{
+    color: #0000ff;
+    font-size: 36px;
+}
+.dif-class{
+    font-size: 24px;
+}
+
+#last-id{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #90ee90;
+}
